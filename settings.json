@@ -1,0 +1,42 @@
+{
+    "copyFormatting": "none",
+    "copyOnSelect": false,
+    "profiles": 
+    {
+        "defaults": 
+        {
+            "bellStyle": "none",
+            "colorScheme": "Sakura",
+            "font": 
+            {
+                "face": "FiraCode NF"
+            }
+        }
+    },
+    "schemes": 
+    [
+        {
+            "background": "#18131E",
+            "black": "#000000",
+            "blue": "#6964AB",
+            "brightBlack": "#786D69",
+            "brightBlue": "#9892F1",
+            "brightCyan": "#EEEEEE",
+            "brightGreen": "#22E529",
+            "brightPurple": "#E90CDD",
+            "brightRed": "#F41D99",
+            "brightWhite": "#CBB6FF",
+            "brightYellow": "#F59574",
+            "cursorColor": "#FF65FD",
+            "cyan": "#939393",
+            "foreground": "#DD7BDC",
+            "green": "#41AF1A",
+            "name": "Sakura",
+            "purple": "#C71FBF",
+            "red": "#D52370",
+            "selectionBackground": "#C05CBF",
+            "white": "#998EAC",
+            "yellow": "#BC7053"
+        }
+    ]
+}
